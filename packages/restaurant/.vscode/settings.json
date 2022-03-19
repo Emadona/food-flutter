@@ -1,0 +1,15 @@
+{
+  "files.exclude": {
+    ".idea": true,
+    ".vscode": true,
+    ".gitignore": true,
+    ".metadata": true,
+    ".packages": true,
+    "analysis_options.yaml": true,
+    "CHANGELOG.md": true,
+    "LICENSE": true,
+    "pubspec.lock": true,
+    "README.md": true,
+    "restaurant.iml": true
+  }
+}
